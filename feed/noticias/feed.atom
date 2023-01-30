@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Noticias24</title>
+		<description>Noticias de la ultima hora</description>
+		<link>http://127.0.0.1:5500</link>
+		<language>en</language>
+		<entry>
+			<title>
+				THE ESKOM FILES
+			</title>
+			<link>
+				http://127.0.0.1:5500/news1.html
+			</link>
+			<description>
+				How the ANC helped land
+				Medupi, Kusile contracts for
+				Hitachi
+			</description>
+
+		</entry>
+		<entry>
+			<title>
+				'I am trying to remember'
+			</title>
+			<link>
+				http://127.0.0.1:5500/news2.html
+			</link>
+			<description>
+				State's sixth Nulane witness unravels under cross-examination
+			</description>
+		</entry>
+		<entry>
+			<title>
+				Tongaat Hulett CEO
+			</title>
+			<link>
+				http://127.0.0.1:5500/news2.html
+			</link>
+			<description>
+				How the ANC helped land
+				Medupi, Kusile contracts for
+				Hitachi
+			</description>
+		</entry>
+		<entry>
+			<title>
+				THE ESKOM FILES
+			</title>
+			<link>
+				http://127.0.0.1:5500/news1.html
+			</link>
+			<description>
+				How the ANC helped land
+				Medupi, Kusile contracts for
+				Hitachi
+			</description>
+		</entry>
+		<entry>
+			<title>
+				THE ESKOM FILES
+			</title>
+			<link>
+				http://127.0.0.1:5500/news1.html
+			</link>
+			<description>
+				How the ANC helped land
+				Medupi, Kusile contracts for
+				Hitachi
+			</description>
+
+		</entry>
+	</channel>
+</feed>
